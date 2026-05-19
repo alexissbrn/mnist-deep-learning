@@ -3,3 +3,4 @@ torchvision
 matplotlib
 jupyter
 numpy
+Pillow
