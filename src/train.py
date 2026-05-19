@@ -14,7 +14,7 @@ from src.model import ReseauMNIST
 ssl._create_default_https_context = ssl._create_unverified_context
 
 # --- Paramètres ---
-EPOCHS = 10
+EPOCHS = 15
 BATCH_SIZE = 64
 LEARNING_RATE = 0.001
 DATA_PATH = os.path.join(
